@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>第一篇博文</title>
+    <link href="/2025/03/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
+    <url>/2025/03/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
+    
+    <content type="html"><![CDATA[<h2 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h2><p>这是我的第一篇博客文章，使用 <strong>Hexo + Fluid</strong> 搭建。</p><h3 id="Markdown-语法示例"><a href="#Markdown-语法示例" class="headerlink" title="Markdown 语法示例"></a>Markdown 语法示例</h3><p><strong>加粗文本</strong><br><em>斜体文本</em><br><del>删除线</del></p><p>代码：</p><pre><code class="language-python">print(&quot;Hello, Hexo!&quot;)</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo fluid</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/02/26/hello-world/"/>
     <url>/2025/02/26/hello-world/</url>
